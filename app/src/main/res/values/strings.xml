@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBarBasica</string>
+    <string name="option1">Opción 1</string>
+    <string name="option2">Opción 2</string>
+    <string name="option3" translatable="false">Opción 3</string>
+    <string name="seoption1">Se seleccionó la primera opción</string>
+    <string name="seoption2">Se seleccionó la segunda opción</string>
+    <string name="seoption3">Se seleccionó la tercera opción</string>
+</resources>

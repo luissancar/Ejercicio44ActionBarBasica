@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActionBarBasica</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="seoption1">Fist option</string>
+    <string name="seoption2">Second option</string>
+    <string name="seoption3">Third option</string>
+</resources>
